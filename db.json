@@ -29,7 +29,7 @@
       "name": "ddfrtg",
       "price": "25",
       "qty": "36",
-      "selected": false,
+      "selected": true,
       "available": true
     },
     {
